@@ -1,0 +1,177 @@
+[
+    {
+      "id": "p1",
+      "name": "Black Jacket",
+      "price": "49.99",
+      "description": "A sleek black jacket perfect for casual outings or formal events.",
+      "image": "images/black-jacket.jpg"
+    },
+    {
+      "id": "p2",
+      "name": "Bucket Hat",
+      "price": "19.99",
+      "description": "A stylish bucket hat available in various colors, ideal for sunny days.",
+      "image": "images/bucket-hat-and-shirt.jpg"
+    },
+    {
+      "id": "p3",
+      "name": "Dark Green Cap",
+      "price": "29.99",
+      "description": "A comfortable dark green cap made from high-quality cotton.",
+      "image": "images/dark-green.jpg"
+    },
+    {
+      "id": "p4",
+      "name": "Belt ",
+      "price": "89.99",
+      "description": "A nice leather belt.",
+      "image": "images/full-belt.jpg"
+    },
+    {
+      "id": "p5",
+      "name": "Green Cap",
+      "price": "14.99",
+      "description": "A trendy green cap to complement your casual look.",
+      "image": "images/green-cap.jpg"
+    },
+    {
+      "id": "p6",
+      "name": "Half Belt View",
+      "price": "39.99",
+      "description": "A unique half-belted jacket offering a modern and stylish appearance.",
+      "image": "images/half-belt-view.jpg"
+    },
+    {
+      "id": "p7",
+      "name": "Light Blue Shirt",
+      "price": "34.99",
+      "description": "A light blue shirt made from breathable fabric, perfect for summer.",
+      "image": "images/light-blue.jpg"
+    },
+    {
+      "id": "p8",
+      "name": "Red Cap",
+      "price": "14.99",
+      "description": "A vibrant red cap to add a pop of color to your outfit.",
+      "image": "images/red-cap.jpg"
+    },
+    {
+      "id": "p9",
+      "name": "Evolve T-shirt",
+      "price": "59.99",
+      "description": "The evolve shirt ",
+      "image": "images/evolve-shirt-lady.jpg"
+    },
+    {
+      "id": "p10",
+      "name": "Yellow Cap",
+      "price": "14.99",
+      "description": "A bright yellow cap for a cheerfulll and sunny look.",
+      "image": "images/yellow-cap.jpg"
+    },
+    {
+      "id": "p11",
+      "name": "Yellow Shirt",
+      "price": "29.99",
+      "description": "A soft yellow shirt, ideal for casual or semi-formal occasions.",
+      "image": "images/yellow-shirt.jpg"
+    },
+    {
+      "id": "p12",
+      "name": "Evolve Shirt",
+      "price": "27.99",
+      "description": "The unique evolve shirt",
+      "image": "images/evolve-shirt.jpg"
+    },
+    {
+      "id": "p13",
+      "name": "full camo Outfit",
+      "price": "79.99",
+      "description": "A full camo-colored outfit, perfect for a chic and elegant look.",
+      "image": "images/full-camo-pose.jpg"
+    },
+    {
+      "id": "p14",
+      "name": "Half Slippers",
+      "price": "24.99",
+      "description": "A stylish half-slippers accessory to enhance your outfit.",
+      "image": "images/half-slippers-view.jpg"
+    },
+    {
+      "id": "p15",
+      "name": "Light Green Shirt",
+      "price": "29.99",
+      "description": "A light green shirt made from soft and breathable fabric.",
+      "image": "images/light-green.jpg"
+    },
+    {
+      "id": "p16",
+      "name": "Ox Blood Jacket",
+      "price": "54.99",
+      "description": "A bold ox-blood red jacket for a striking and edgy appearance.",
+      "image": "images/ox-blood-jacket.jpg"
+    },
+    {
+      "id": "p17",
+      "name": "Pair of Slippers",
+      "price": "19.99",
+      "description": "Comfortable pair of slippers for relaxing at home.",
+      "image": "images/pair-of-slippers.jpg"
+    },
+    {
+      "id": "p18",
+      "name": "Red and white Cap",
+      "price": "49.99",
+      "description": "A red and white sleek cap",
+      "image": "images/red-cap.jpg"
+    },
+    {
+      "id": "p19",
+      "name": "White  and Shirt Outdoor",
+      "price": "69.99",
+      "description": "A versatile set including two shirts and an outdoor jacket.",
+      "image": "images/red-white-shirt-outdoor.jpg"
+    },
+    {
+      "id": "p20",
+      "name": "Shirt and Cap",
+      "price": "34.99",
+      "description": "A combination of a shirt dress and matching cap for a coordinated look.",
+      "image": "images/shirt-and-cap.jpg"
+    },
+    {
+      "id": "p21",
+      "name": "Evolve Supre Combo",
+      "price": "74.99",
+      "description": "A vibrant yellow and lilac outfit for a bold and colorfulll style.",
+      "image": "images/yellow-and-blue.jpg"
+    },
+    {
+      "id": "p22",
+      "name": "Yellow Opened View",
+      "price": "39.99",
+      "description": "A yellow jacket with an opened view design, offering a unique and stylish look.",
+      "image": "images/yellow-opened-view.jpg"
+    },
+    {
+      "id": "p23",
+      "name": "Yellow Shirt full",
+      "price": "29.99",
+      "description": "A yellow shirt with a full design, perfect for a casual and trendy appearance.",
+      "image": "images/yellow-shirt-full.jpg"
+    },
+    {
+        "id": "p24",
+        "name": "Bucket Hat",
+        "price": "29.99",
+        "description": "A creame coloured hat.",
+        "image": "images/bucket-hat-and-camo-two-piece.jpg"
+      },
+      {
+        "id": "p25",
+        "name": "Two-piece combo",
+        "price": "29.99",
+        "description": "A slick two piece blue combo",
+        "image": "images/full-fit-pose.jpg" 
+      }
+  ]
